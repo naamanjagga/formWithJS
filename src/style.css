@@ -1,0 +1,31 @@
+#display {
+    margin: 5% 35%;
+    background-color: black;
+    padding: 2% 3%;
+    min-height: 32em;
+    height: 100%;
+    border-radius: 10px;
+}
+h1 {
+    margin-bottom: 10%;
+    color: white;
+}
+input {
+    width: 80%;
+    margin: 3% 0;
+    padding: 3% 8%;
+}
+#input1 ,#input2 {
+    width: 27%;
+}
+#input2 {
+    margin-left: 6.3%;
+}
+
+button {
+    float: right;
+     margin: 12% 4%;
+    padding: 3% 8%; 
+    background-color: #4CAF50;
+    border: none;
+}
